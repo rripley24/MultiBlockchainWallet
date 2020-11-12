@@ -3,7 +3,7 @@
 ## Rich Ripley
 ### 11/11/2020
 
-![crypto wallet](https://www.elev8con.com/wp-content/uploads/2019/02/Do-I-need-a-cryptocurrency-wallet.jpg)
+![crypto wallet](https://camo.githubusercontent.com/6b238516fa8f3dfb4d3af8ef9828ffc1b614b242f22a4b2adc39ab6c97dcafa8/68747470733a2f2f7777772e656c657638636f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30322f446f2d492d6e6565642d612d63727970746f63757272656e63792d77616c6c65742e6a7067)
 
 ---
 
