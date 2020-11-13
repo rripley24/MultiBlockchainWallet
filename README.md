@@ -9,6 +9,14 @@
 
 # Objective: send BTCTEST/ETH transactions using Python
 
+# Steps: 
+    1- Install dependencies
+    2- Project set-up
+    3- Setup constants
+    4- Generate a mnemonic 
+    5- Linking the transaction through python functions
+    6- Send some transactions!
+
 ## Dependencies:
 
  - PHP must be installed on your operating system (any version, 5 or 7). Don't worry, you will not need to know any PHP.
@@ -53,7 +61,7 @@
 
  - Set this mnemonic as an environment variable, and include the one you generated as a fallback using: mnemonic = os.getenv('MNEMONIC', 'insert mnemonic here')
 
-## Linking the transaction signing libraries
+## Linking the transaction through python functions
 
 Now, we need to use bit and web3.py to leverage the keys we've got in the coins object. You will need to create three more functions:
 
